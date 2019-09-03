@@ -1,7 +1,7 @@
 
 # Website settings
 title: Gaurav Bansal
-description:Gaurav Bansal's personal website
+description: Gaurav Bansal's personal website
 keywords: Gaurav,Personal site,blog,Gaurav Bansal,github
 baseurl:  / # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: https://gauravbnsal.github.io/  # url should be 'http://<github_username>.github.io/homepage' as before
