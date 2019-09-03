@@ -1,0 +1,33 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: Jaypee University Anoopshahr
+    i18n: company_a
+  desc:
+    detail: I am a 3rd year Computer Science Engineering student at Jaypee University and my current CGPA is 8.0
+    i18n: company_a_desc
+  date:
+    detail: May 2017 - May 2021
+    i18n: company_a_date
+
+- name:
+    detail: B.K. Senior Secondary School
+    img: /static/assets/img/landing/android.jpg
+    i18n: company_a
+  desc:
+    detail: HSC with 72% (CBSE)
+    i18n: company_a_desc
+  date:
+    detail: May 2017 
+    i18n: company_a_date
+  
+- name:
+    detail: B.K. Senior Secondary School
+    i18n: company_b
+  desc:
+    detail: SSC with 9.2 CGPA
+    i18n: company_b_desc
+  date:
+    detail: May 2015
+    i18n: company_b_date
+  
