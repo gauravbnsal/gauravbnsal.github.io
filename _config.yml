@@ -1,7 +1,7 @@
 
 # Website settings
 title: Gaurav Bansal
-description:Gaurav Bansal's personal website
+description: Gaurav Bansal's personal website
 keywords: Gaurav,Personal site,blog,Gaurav Bansal,github
 baseurl:  / # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: https://gauravbnsal.github.io/  # url should be 'http://<github_username>.github.io/homepage' as before
@@ -15,10 +15,10 @@ author:  # change following line to your information.
   last_name: Bansal # Be used at index page about me section.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
   github_username: gauravbnsal  # Leave blank if you don't have now
-  linkedin_id: _gauravbansal # Leave blank if you don't have now
+  linkedin_id: gauravbnsal # Leave blank if you don't have now
   facebook_username:   # Leave blank if you don't have now
   twitter_username: _gauravbansal  # Leave blank if you don't have now
-  email: GauravBansal71999@gmail.com  # Leave blank if you don't have now
+  email: gauravbansal71999@gmail.com  # Leave blank if you don't have now
   cv:   # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
@@ -27,7 +27,7 @@ author:  # change following line to your information.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: I am a 3rd year computer science engineering student at Jaypee University Anoopshahr.Now I am looking for internship opportunities where I can learn and enchance my skill to grow as an IT professional. 
+  desc: I am a 3rd year computer science engineering student at Jaypee University Anoopshahr. 
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
